@@ -151,18 +151,18 @@ Pruébalo [**AQUÍ**](https://tabsoft.co/38C1f5B)
 
 En el boxplot RATIO DE LIQUIDEZ POR SECTOR se refleja la capacidad de las empresas de los sector es Industrial, Minería y Agrario para satisfacer sus deudas a corto plazo, pues aproximadamente el 75% (cuartil inferior) de las compañías tienen una liquidez mayor a 1. El sector de Servicios por su parte, tiene una liquidez media de 1.3, pero la mitad de estas tienen una liquidez negativa.
 
-<center><img src="https://imgur.com/DZsV16I.png" height="150" widht=auto/></center>
+<center><img src="https://imgur.com/DZsV16I.png" height="170" widht=auto/></center>
 
 Por otra parte, la línea de tendencia positiva mostrada en el gráfico FINANCIAMIENTO POR DEUDAS sugiere que las empresas prefieren financiar sus actividades con financiación externa en lugar de fondos propios, con excepción del sector Minería. Se puede deducir que esta decición con respecto a la financiación depende de las actividades productivas específicas de cada empresa.
 
-<center><img src="https://imgur.com/7UWHYai.png" height="140" widht=auto /></center>
+<center><img src="https://imgur.com/7UWHYai.png" height="170" widht=auto /></center>
 
 
 ✔️ **¿Qué sector presenta mayor rentabilidad?**
 
 El ROA indica qué tal eficiente es empresa para generar utilidades con su disponibilidad de activos, para este análisis se consideran óptimos a los valores de ROA que superen el 5%. Puesto que el valor del ROA varía de acuerdo a la indutria, se analizaron tomando en cuenta el periodo de tiempo.
 
-<center><img src="https://imgur.com/AFArrAm.png" height="110" widht=90 /></center>
+<center><img src="https://imgur.com/AFArrAm.png" height="170" widht=90 /></center>
 
 
 En el sector Industrial y Minería Sector se nota una ineficiencia en uso de activos, pues sus utilidades tienen tendencia a disminuir con el paso del tiempo como muestra la visualización EVOLUCIÓN DEL ROA.
