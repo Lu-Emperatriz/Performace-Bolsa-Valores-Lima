@@ -5,9 +5,10 @@ Ver documentación del proyecto [AQUÍ](https://github.com/Lu-Emperatriz/Perform
 
 [**Ver el dashboard en línea en Tableau**](https://tabsoft.co/3sUUAek)
 
+[![alt text](https://imgur.com/SqfOdqO.png)](https://bit.ly/3vsbLFD)
 
 ***
 
-### 📌 **Conoce más de mis proyectos [AQUÍ](https://github.com/Lu-Emperatriz)**
+### 📌 Ver más proyectos de Lucero [AQUÍ](https://github.com/Lu-Emperatriz)
 
-Lucero Emperatriz.
+
