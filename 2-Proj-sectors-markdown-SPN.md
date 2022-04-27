@@ -3,7 +3,7 @@
 [**Ver el dashboard en línea en Tableau**](https://tabsoft.co/3sUUAek)
 
 
-<center><a href="https://tabsoft.co/38C1f5B"><img src="https://imgur.com/8duoiFH.png" width="500" height="500" /></a></center>
+<center><a href="https://tabsoft.co/38C1f5B"><img src="https://imgur.com/8duoiFH.png" width="700" /></a></center>
 
 
 * * *
