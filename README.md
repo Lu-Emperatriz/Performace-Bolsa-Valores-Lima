@@ -10,6 +10,6 @@ Documentación del proyecto [AQUÍ](https://github.com/Lu-Emperatriz/Performace-
 
 ***
 
-### 📌 <ins>Ver más proyectos de Lucero [AQUÍ](https://github.com/Lu-Emperatriz)</ins>
+### 📌 Ver más proyectos de Lucero [AQUÍ](https://lu-emperatriz.github.io/#projects)
 
 
