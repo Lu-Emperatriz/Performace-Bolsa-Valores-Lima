@@ -175,7 +175,6 @@ Interested parties are invited to perform a more comprehensive analysis by makin
 
 ***
 
-### **📌 Learn more about my projects [HERE](https://github.com/Lu-Emperatriz)**
+### **📌 Discover more of my projects [HERE](https://lu-emperatriz.github.io/)**.
 
-Lucero Emperatriz.
- <a href="https://www.linkedin.com/in/lucero-sovero/"><img src="https://imgur.com/p58yPZr.png" height="auto" width="50" style="border-radius:50%"></a>
+<a href="https://www.linkedin.com/in/lucero-sovero/"><img src="https://imgur.com/p58yPZr.png" height="auto" width="50" style="border-radius:50%"></a>
