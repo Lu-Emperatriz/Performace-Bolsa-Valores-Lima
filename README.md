@@ -5,7 +5,7 @@ Documentación del proyecto [AQUÍ](https://github.com/Lu-Emperatriz/Performace-
 [**Ver el dashboard en línea en Tableau**](https://tabsoft.co/38C1f5B)
 
 
-<center><a href="https://tabsoft.co/38C1f5B"><img src="https://imgur.com/8duoiFH.png" width="500" height="500" /></a></center>
+<center><a href="https://tabsoft.co/38C1f5B"><img src="https://imgur.com/8duoiFH.png" width="800" height="900" /></a></center>
 
 
 ***
